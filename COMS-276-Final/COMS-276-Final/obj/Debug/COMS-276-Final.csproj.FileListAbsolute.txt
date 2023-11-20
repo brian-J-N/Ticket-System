@@ -1,0 +1,134 @@
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmViewData.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (2)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketOrder.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketOrder.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (3)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketOrder.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (5)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketOrder.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (6)\COMS-276-Final\COMS-276-Final\bin\Debug\.xml
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\bin\Debug\Venue.accdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\bin\Debug\.xml
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketOrder.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project 2 - Copy (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\Venue.accdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\.xml
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketOrder.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe.manifest
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.application
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\brian\OneDrive\Desktop\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\Venue.accdb
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.config
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe.manifest
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.application
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.exe
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\COMS-276-Final.pdb
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\bin\Debug\.xml
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.AssemblyReference.cache
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmEventCreator.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmMenu.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmReports.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketPortal.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.frmTicketOrder.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS_276_Final.Properties.Resources.resources
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.GenerateResource.cache
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.csproj.CoreCompileInputs.cache
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe.manifest
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.application
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.exe
+C:\Users\Naegl\OneDrive\Documents\Brians Doctuments\computer classes\COMS-276\Final Project (final)\COMS-276-Final\COMS-276-Final\obj\Debug\COMS-276-Final.pdb

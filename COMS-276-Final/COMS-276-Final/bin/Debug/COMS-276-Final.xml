@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>COMS-276-Final</name>
+    </assembly>
+    <members>
+        <member name="P:COMS_276_Final.clsData.ConnectionString">
+            <summary>
+            String to contain connection string to database
+            </summary>
+        </member>
+        <member name="P:COMS_276_Final.clsData.SQL">
+            <summary>
+            Store query to database
+            </summary>
+        </member>
+        <member name="P:COMS_276_Final.clsData.dt">
+            <summary>
+            Data table accessible from application
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.clsData.FillDataTable">
+            <summary>
+            Fill datatable with data from database based on properties of SQL and connection string 
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmEventCreator.CreateEvent(System.String,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.String,System.String)">
+            <summary>
+            This Method accepts arguments and uses the excepted data to update information in the database.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmEventCreator.CheckNumber(System.String)">
+            <summary>
+            This Method checks if a string is only a number and if string has 0 or 1 decimal.
+            </summary>
+        </member>
+        <member name="F:COMS_276_Final.frmEventCreator.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmEventCreator.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:COMS_276_Final.frmEventCreator.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:COMS_276_Final.frmMenu.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmMenu.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:COMS_276_Final.frmMenu.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmReports.EventReport">
+            <summary>
+            This method creates an HTML Report on the ticket sales from the database.
+            </summary>
+        </member>
+        <member name="F:COMS_276_Final.frmReports.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmReports.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:COMS_276_Final.frmReports.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.LoadAvaialbleTicketGeneral">
+            <summary>
+            This Method fills the list box with all the available general section tickets from the database.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.LoadAvaialbleTicketRowA">
+            <summary>
+            This Method fills the list box with all the available Row: A section tickets from the database.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.LoadAvaialbleTicketRowB">
+            <summary>
+            This Method fills the list box with all the available Row: B section tickets from the database.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:COMS_276_Final.frmTicketPortal.LoadAvaialbleTicketRowC" -->
+        <member name="M:COMS_276_Final.frmTicketPortal.LoadAvaialbleTicketRowD">
+            <summary>
+            This Method fills the list box with all the available Row: D section tickets from the database.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.LoadSelectedItem(System.Int32)">
+            <summary>
+            This Method displays information about the selected ticket to screen.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.DisplayEventName">
+            <summary>
+            method to display event name, date/time, and location to screen 
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.CheckNumber(System.String)">
+            <summary>
+            This Method loops through a string of characters to check if it contains anything other then a number.
+            If any charcter that is not a number is found in the string the method returns boolean value of false other wise it returns true.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.btnOrderTicket_Click(System.Object,System.EventArgs)">
+            <summary>
+            This Button calls methods to check input from the user, call method to update database with the user input.
+            Call method to display the HTML report of ticket selected.
+            </summary>
+        </member>
+        <member name="F:COMS_276_Final.frmTicketPortal.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketPortal.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketOrder.TicketOrderReport(System.Int32)">
+            <summary>
+            This method excepts and int argument to use as an index for displaying the selcted ticket from the database to an HTML report.
+            </summary>
+        </member>
+        <member name="F:COMS_276_Final.frmTicketOrder.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketOrder.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:COMS_276_Final.frmTicketOrder.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:COMS_276_Final.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:COMS_276_Final.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:COMS_276_Final.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:COMS_276_Final.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
